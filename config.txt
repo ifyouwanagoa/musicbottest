@@ -1,4 +1,5 @@
 owner= 352533519068823556
+prefix= $
 game= $play
 stayinchannel=Off
 songinstatus=ON
