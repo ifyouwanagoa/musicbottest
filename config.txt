@@ -1,0 +1,7 @@
+owner= MzUyNTMzNTE5MDY4ODIzNTU2.XKJdUg._1Vq9nJk-jYC6-ya5pRJpMF4O4E
+prefix= $
+game= $play
+stayinchannel=Off
+songinstatus=ON
+token= NTYyNjg2NDg1ODU4NDg0MjQ0.XKOYyQ.EJzpg15gdvJeR30wlafmHlqMLpQ
+
