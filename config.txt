@@ -1,5 +1,4 @@
-owner= MzUyNTMzNTE5MDY4ODIzNTU2.XKJdUg._1Vq9nJk-jYC6-ya5pRJpMF4O4E
-prefix= $
+owner= 352533519068823556
 game= $play
 stayinchannel=Off
 songinstatus=ON
